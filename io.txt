@@ -1,0 +1,3 @@
+name,age,gender,hobby,motto
+yuze,18,男,看球,success
+zhangsan,18,男,watchTV,success
